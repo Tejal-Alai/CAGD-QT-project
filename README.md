@@ -83,15 +83,17 @@ Features:
 
 ### Initial State
 
-![Initial State] ![image](https://github.com/Tejal-Alai/CAGD-QT-project/assets/131939644/fec18560-6f7b-418c-abf7-c4159fccf90f)
+![Initial State] ![image](https://github.com/Tejal-Alai/CAGD-QT-project/assets/131939644/14bea44e-0750-4c07-ab64-3769bc53a800)
 
 ### Performing Transformations
 
-![Translate] ![image](https://github.com/Tejal-Alai/CAGD-QT-project/assets/131939644/872ef162-ca0e-462e-8a26-71d69222905a)
+![Translate] ![image](https://github.com/Tejal-Alai/CAGD-QT-project/assets/131939644/1c0a7eb0-45a2-4df4-a7d0-69df66f544aa)
 
-![Rotate] ![image](https://github.com/Tejal-Alai/CAGD-QT-project/assets/131939644/963c5221-7c14-47e3-ab71-d2c2145fd974)
 
-![Scale] ![image](https://github.com/Tejal-Alai/CAGD-QT-project/assets/131939644/7f21debe-dc4c-44b8-b1c1-cca75e1ce40a)
+![Rotate] ![image](https://github.com/Tejal-Alai/CAGD-QT-project/assets/131939644/d1a3444e-11ee-423f-abe9-e3139486411b)
+
+![Scale] ![image](https://github.com/Tejal-Alai/CAGD-QT-project/assets/131939644/3e308898-75bf-4a16-8a1f-4cf1c02bc37f)
+
 
 
 ### Clipping in Action
