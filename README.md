@@ -104,7 +104,8 @@ Features:
 ![Bezier Curve] ![image](https://github.com/Tejal-Alai/CAGD-QT-project/assets/131939644/1794eede-6e5c-4d5d-946e-e6fa4e3dd4ac)
 
 ### Hermite Curve
-![Hermite Curve] ![image](https://github.com/Tejal-Alai/CAGD-QT-project/assets/131939644/2291070c-2e4b-4d30-b696-818d49c427de)
+![Hermite Curve] ![image](https://github.com/Tejal-Alai/CAGD-QT-project/assets/131939644/d981e74f-5cdd-49e2-9d82-7228a08f6d84)
+
 
 
 
