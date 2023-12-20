@@ -96,12 +96,15 @@ Features:
 
 ### Clipping in Action
 
-![Before Clipping Action] ![image](https://github.com/Tejal-Alai/CAGD-QT-project/assets/131939644/c94d356f-0c56-4fd3-9dc2-c136626d6fbd)
+![Before Clipping Action] ![image](https://github.com/Tejal-Alai/CAGD-QT-project/assets/131939644/92e12f4a-75a6-4aae-b301-52281935837c)
 
-![After Clipping Action] ![image](https://github.com/Tejal-Alai/CAGD-QT-project/assets/131939644/78cd7a94-dfd2-4f58-84a0-662e8d7a7a48)
+
+![After Clipping Action] ![image](https://github.com/Tejal-Alai/CAGD-QT-project/assets/131939644/34632737-4817-4266-8ceb-cd767930c052)
+
 
 ### Bezier Curve
-![Bezier Curve] ![image](https://github.com/Tejal-Alai/CAGD-QT-project/assets/131939644/1794eede-6e5c-4d5d-946e-e6fa4e3dd4ac)
+![Bezier Curve] ![image](https://github.com/Tejal-Alai/CAGD-QT-project/assets/131939644/55ebc082-9168-414d-aa72-8f253aed65f4)
+
 
 ### Hermite Curve
 ![Hermite Curve] ![image](https://github.com/Tejal-Alai/CAGD-QT-project/assets/131939644/d981e74f-5cdd-49e2-9d82-7228a08f6d84)
