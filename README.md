@@ -40,7 +40,7 @@ The BezierCurve DLL offers functionality for generating Bezier and Hermite curve
 
 Files:
 + BezierCurve.cpp: Implements the BezierCurve class for drawing Bezier curves.
-+ *`HermiteCurve.cpp:`* Defines the HermiteCurve class for drawing Hermite curves.
++ HermiteCurve.cpp: Defines the HermiteCurve class for drawing Hermite curves.
 #### 5. Visualizer (Main Project)
 Overview:
 The Visualizer project integrates the functionalities of the Geometry, Transformations, Clipping, and BezierCurve DLLs to create a comprehensive OpenGL-based geometric data visualization tool.
