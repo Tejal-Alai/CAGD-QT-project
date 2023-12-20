@@ -107,7 +107,8 @@ Features:
 
 
 ### Hermite Curve
-![Hermite Curve] ![image](https://github.com/Tejal-Alai/CAGD-QT-project/assets/131939644/d981e74f-5cdd-49e2-9d82-7228a08f6d84)
+![Hermite Curve] ![image](https://github.com/Tejal-Alai/CAGD-QT-project/assets/131939644/c689333f-b2b0-443f-9f4c-85889c8b8827)
+
 
 
 
